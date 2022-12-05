@@ -1,0 +1,4 @@
+# Project exclude paths
+/index.js
+/orders.js
+/restaurants.js
